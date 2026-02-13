@@ -1,0 +1,24 @@
+body {
+    background: linear-gradient(#ff92c5, #ffb8f0);
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    margin: 0;
+}
+
+.container {
+    text-align: center;
+}
+
+.ring-image {
+    width: 100%; /* Adjust size as needed */
+    height: auto;
+    margin-bottom: 10px;
+}
+
+h1 {
+    color: white;
+    font-family: math;
+    font-size: 200%;
+}
